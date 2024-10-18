@@ -182,4 +182,4 @@ curl -X PUT -H "Content-Type: application/json" -d '{"id":1,"name":"Ana Pérez",
 ```bash
 curl -X DELETE http://localhost/api.php?id=1
 ```
-### Entrega vía github classroom
+## Entrega vía github classroom
